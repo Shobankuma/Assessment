@@ -1,4 +1,3 @@
-
 # Function to count occurrences of words
 def count_words(n, words):
     distinct_words = []
